@@ -1,0 +1,25 @@
+.item{
+  z-index: 0;
+}
+
+.fa.fa-chevron-right, .fa.fa-chevron-left{
+  position: relative;
+  top:50%;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img{
+  width: 100%;
+  height: 700px;
+}
+
+.slider-area .fa-chevron-left, .slider-area .fa-chevron-right{
+  border: 1px solid #fff;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  padding-top: 20px;
+}
+.slider-area .fa-chevron-left:hover, .slider-area .fa-chevron-right:hover {
+  background: #FF6D6D;
+  border: 1px solid #FF6D6D;
+}
