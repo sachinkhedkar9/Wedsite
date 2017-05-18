@@ -22,6 +22,7 @@ var Config = {
     "/font/",
     "/images/",
     "/views/",
+    "/min-js/",
     "/bower_components/",
     "/favicon.ico"
   ]
